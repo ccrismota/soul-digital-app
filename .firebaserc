@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "soul-digital-c15f6": {
+      "hosting": {
+        "soul-digital": [
+          "soul-digital-c15f6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "soul-digital-c15f6"
+  }
+}
